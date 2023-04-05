@@ -1,2 +1,2 @@
-# Research-Project-in-Application-of-Artificial-Intelligence-on-Medical-Imaging-Lab2
+# Lab2
 EEG classification
